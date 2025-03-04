@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234044997744",
+    "project_id": "jquize-6f680",
+    "storage_bucket": "jquize-6f680.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234044997744:android:552bb90e79daddca7c34b5",
+        "android_client_info": {
+          "package_name": "com.example.jquize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJmIhcEM6YO6e4q6DdVMQFgqteQotebM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
